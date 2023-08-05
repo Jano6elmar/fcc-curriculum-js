@@ -14,3 +14,12 @@ myNum = myVar;
 
 //Ejercicio:
 //Asigna el contenido de a a la variable b.
+
+// Configuración
+var a;
+a = 7;
+var b;
+
+// Cambia solo el código debajo de esta línea
+
+b = a;
